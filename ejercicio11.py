@@ -22,10 +22,10 @@ subtotal_producto2 = cant2*precio_unitario2
 subtotal_producto3 = cant3*precio_unitario3
 subtotal_producto4 = cant4*precio_unitario4
 
-print("cantidad gastada en: "+ producto1 +" $"+ str(subtotal_producto1))
-print("cantidad gastada en: "+ producto2 +" $"+ str(subtotal_producto2))
-print("cantidad gastada en: "+ producto3 +" $"+ str(subtotal_producto3))
-print("cantidad gastada en: "+ producto4 +" $"+ str(subtotal_producto4))
+print("cantidad gastada en: "+ producto1 +"$ "+ str(subtotal_producto1))
+print("cantidad gastada en: "+ producto2 +"$ "+ str(subtotal_producto2))
+print("cantidad gastada en: "+ producto3 +"$ "+ str(subtotal_producto3))
+print("cantidad gastada en: "+ producto4 +"$ "+ str(subtotal_producto4))
 
 total = subtotal_producto1+subtotal_producto2+subtotal_producto3+subtotal_producto4
 
