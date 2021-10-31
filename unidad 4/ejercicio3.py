@@ -1,4 +1,4 @@
-def determina_si_son_divsibles(numero1,):
+def determina_si_son_divsibles(numero1):
     if numero1%6 == 0:
         return "el numero es divisible por 6"
 
