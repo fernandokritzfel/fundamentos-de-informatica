@@ -1,3 +1,9 @@
+# Ejercicio 1: Definir una función que permita que reciba como parámetro un número e
+# imprima por pantalla si es positivo, negativo o cero. Utilice esta función para escribir un
+# programa que lee un número ingresado por el usuario y muestre si es positivo, negativo o
+# cero.
+
+
 def determina_negativo_positivo(numero):
     if numero>0:
         return "su numero es positivo"

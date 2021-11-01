@@ -9,4 +9,3 @@ tercer_sala = 98 + adultos
 asientos1 = 60
 micro = calculo_transporte(primer_sala,segunda_sala,tercer_sala,asientos1)
 print(int(micro+1))
-print(tercer_sala)
